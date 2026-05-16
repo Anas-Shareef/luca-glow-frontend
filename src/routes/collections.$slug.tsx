@@ -190,7 +190,6 @@ function CollectionPage() {
       filters={filters}
       setFilters={setFilters}
       toggleSize={toggleSize}
-      toggleSize={toggleSize}
       currentSlug={slug}
       categories={categories}
     />
